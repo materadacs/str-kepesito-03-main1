@@ -1,0 +1,38 @@
+{
+    "books": [{
+            "id": 1,
+            "title": "Don quixote",
+            "author": "Miguel de Cervantes",
+            "numberOfReaders": 477,
+            "category": "Adventure"
+        },
+        {
+            "id": 2,
+            "title": "Lord of the Rings",
+            "author": "J.R. Tolkien",
+            "numberOfReaders": 587,
+            "category": "Fantasy"
+        },
+        {
+            "id": 3,
+            "title": "Harry Potter and Sorcerers Stone",
+            "author": "J.K. Rowling",
+            "numberOfReaders": 325,
+            "category": "Adventure"
+        },
+        {
+            "id": 4,
+            "title": "And Then There Were None",
+            "author": "Agatha Christie",
+            "numberOfReaders": 655,
+            "category": "Crime"
+        },
+        {
+            "id": 5,
+            "title": "Love in the Time of Cholera",
+            "author": "Gabriel García Márquez",
+            "numberOfReaders": 147,
+            "category": "Romance"
+        }
+    ]
+}

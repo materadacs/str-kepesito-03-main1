@@ -1,0 +1,8 @@
+#change-button {
+    display: block;
+    margin: 3% auto;
+    background-color: rgb(228, 76, 26);
+    color: whitesmoke;
+    padding: 0.5rem;
+    border-radius: 0.3rem;
+}

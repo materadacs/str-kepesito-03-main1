@@ -1,0 +1,28 @@
+{
+    "name": "js-task",
+    "version": "1.0.0",
+    "description": "Javascript qualification test",
+    "main": "task01-algorithm/main.js",
+    "scripts": {
+        "test": "jest",
+        "test-watch": "jest --watch"
+    },
+    "author": "Bakóczy Zoltán, Bozsó-Fort Zsuzsanna, Progmasters",
+    "license": "ISC",
+    "devDependencies": {
+        "@babel/plugin-transform-modules-commonjs": "^7.13.8",
+        "@babel/preset-env": "^7.13.9",
+        "@testing-library/jest-dom": "^5.11.9",
+        "babel-core": "^7.0.0-bridge.0",
+        "babel-preset-env": "^1.6.1",
+        "babel-preset-stage-1": "^6.24.1",
+        "jest": "^22.1.4"
+    },
+    "jest": {
+        "verbose": true,
+        "testURL": "http://localhost"
+    },
+    "dependencies": {
+        "@babel/core": "^7.13.8"
+    }
+}
